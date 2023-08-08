@@ -5,4 +5,4 @@
 
 ##
 
-<h3>Projeto desenvolvido para fins acadêmicos (cadeira de programação I)</h3>
+<h3>Projeto desenvolvido para fins acadêmicos (cadeira de Programação I)</h3>
